@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+out/
+images/
+clips/
+*.json
+!requirements.txt
